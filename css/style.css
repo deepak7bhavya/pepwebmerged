@@ -309,7 +309,7 @@ Parallax
 ============================= */
 
 #missionvision{
-	min-height:190px;
+	
 }
 
 #missionvision h2{
@@ -321,7 +321,7 @@ font-size:60px;
 
 #missionvision p{
 color:#fff;
-font-size:24px;
+font-size:21px;
 font-family: "Open sans-serif";
 
 }
@@ -1214,9 +1214,9 @@ more media queries
 
 }
 
-#missionvision{
+/* #missionvision p{
 	min-height:322px;
-}
+} */
 
 	header{
 		padding-bottom: 50px;
