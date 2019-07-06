@@ -2355,6 +2355,7 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    background: inherit;
   }
   
   .portfolio-tabs {
